@@ -1,0 +1,4 @@
+repository "Tut2 Test@tj_codeoflassitude@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
